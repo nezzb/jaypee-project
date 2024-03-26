@@ -1,4 +1,6 @@
 <?php
     echo "This is a Login";
 
-// This is a comment
+    // GERGER (03/26/2024)
+    // A variable created to use in login
+    $thisVariable = "this is a login variable";
